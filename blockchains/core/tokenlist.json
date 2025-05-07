@@ -136,7 +136,7 @@
         "symbol": "CID",
         "decimals": 18,
         "chainId": 1116,
-        "logoURI": "https://"
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0x000000000e1d682cc39abe9b32285fdea1255374.png"
       },
   {
         "name": "Miidas NFT",
