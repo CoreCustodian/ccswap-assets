@@ -1,0 +1,302 @@
+{
+    "name": "CCSwap Default",
+    "timestamp": "2077-01-01T11:11:11.111Z",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0x78811f796e3f5933ed2657d3caf39d4e22ca8ade.png",
+    "keywords": ["ccswap","default"],
+    "tokens": [
+      {
+        "name": "Core Custodian",
+        "address": "0x78811f796e3f5933ed2657d3caf39d4e22ca8ade",
+        "symbol": "CCDN",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0x78811f796e3f5933ed2657d3caf39d4e22ca8ade.png"
+      },
+      {
+        "name": "COCO Community",
+        "address": "0x0fd98374ee05d059885ba70988ea2d072f6fd981",
+        "symbol": "COCO",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0x0fd98374ee05d059885ba70988ea2d072f6fd981.png"
+      },
+   {
+        "name": "Icecreamswap Token",
+        "address": "0xc0e49f8c615d3d4c245970f6dc528e4a47d69a44",
+        "symbol": "ICE",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0xc0e49f8c615d3d4c245970f6dc528e4a47d69a44.png"
+      },
+   {
+        "name": "Pepe",
+        "address": "0xc0e5f8e2a9a2f1fbf34ab4d5fbf417ffd02fdb79",
+        "symbol": "PEPE",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0xc0e5f8e2a9a2f1fbf34ab4d5fbf417ffd02fdb79.png"
+      },
+  {
+        "name": "ASX",
+        "address": "0xb28b43209d9de61306172af0320f4f55e50e2f29",
+        "symbol": "ASX",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0xb28b43209d9de61306172af0320f4f55e50e2f29.png"
+      },
+  {
+        "name": "Bugs Bunny",
+        "address": "0x892ccdd2624ef09ca5814661c566316253353820",
+        "symbol": "BB",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0x892ccdd2624ef09ca5814661c566316253353820.png"
+      },
+  {
+        "name": "Young Parrot",
+        "address": "0xf15fba1e7112d680055962fb85a0c04550f24097",
+        "symbol": "YPC",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0xf15fba1e7112d680055962fb85a0c04550f24097.png"
+      },
+  {
+        "name": "CoreCuties",
+        "address": "0x811af333e431f4a6283bfbb1e0cd244715fd9c54",
+        "symbol": "CCTR",
+        "decimals": 8,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0x811af333e431f4a6283bfbb1e0cd244715fd9c54.png"
+      },
+  {
+        "name": "PIPI_LOL",
+        "address": "0x3034802fc4c9a278d0886ed77fd3f79fd789c898",
+        "symbol": "PIPI",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0x3034802fc4c9a278d0886ed77fd3f79fd789c898.png"
+      },
+  {
+        "name": "Wrapped CORE",
+        "address": "0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f",
+        "symbol": "WCORE",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f.png"
+      },
+  {
+        "name": "Call of Memes",
+        "address": "0xb4a452e975c006619559e30069804f873475f111",
+        "symbol": "COME",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0xb4a452e975c006619559e30069804f873475f111.png"
+      },
+  {
+        "name": "Trump2024Meme",
+        "address": "0x7bb0996354ab99fadd6a9fd0bf6ac40fa7e54b6f",
+        "symbol": "TRUMPMEME",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0x7bb0996354ab99fadd6a9fd0bf6ac40fa7e54b6f.png"
+      },
+  {
+        "name": "ArcherSwap",
+        "address": "0x1a639e150d2210a4be4a5f0857a9151b241e7ae4",
+        "symbol": "BOW",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0x1a639e150d2210a4be4a5f0857a9151b241e7ae4.png"
+      },
+  {
+        "name": "USD Coin",
+        "address": "0xa4151b2b3e269645181dccf2d426ce75fcbdeca9",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0xa4151b2b3e269645181dccf2d426ce75fcbdeca9.png"
+      },
+  {
+        "name": "Aquarius",
+        "address": "0x204e2d49b7cda6d93301bcf667a2da28fb0e5780",
+        "symbol": "ARS",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0x204e2d49b7cda6d93301bcf667a2da28fb0e5780.png"
+      },
+  {
+        "name": "CORE ID Token",
+        "address": "0x000000000e1d682cc39abe9b32285fdea1255374",
+        "symbol": "CID",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://"
+      },
+  {
+        "name": "Miidas NFT",
+        "address": "0xcfd38184c30832917a2871695f91e5e61bbd41ff",
+        "symbol": "Miidas",
+        "decimals": 6,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0xcfd38184c30832917a2871695f91e5e61bbd41ff.png"
+      },
+  {
+        "name": "Pumpkin Cat",
+        "address": "0x1483a469ef2c5b7dd2cb1b9174b01545c9a7fb69",
+        "symbol": "PUMP",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0x1483a469ef2c5b7dd2cb1b9174b01545c9a7fb69.png"
+      },
+  {
+        "name": "Tether USD",
+        "address": "0x900101d06a7426441ae63e9ab3b9b0f63be145f1",
+        "symbol": "USDT",
+        "decimals": 6,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0x900101d06a7426441ae63e9ab3b9b0f63be145f1.png"
+      },
+  {
+        "name": "ShadowSwap Token",
+        "address": "0xddba66c1eba873e26ac0215ca44892a07d83adf5",
+        "symbol": "Shdw",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0xddba66c1eba873e26ac0215ca44892a07d83adf5.png"
+      },
+  {
+        "name": "HAY",
+        "address": "0xd698320cd0b571b62e57826d470c2b8d2ff1d04e",
+        "symbol": "$HAY",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0xd698320cd0b571b62e57826d470c2b8d2ff1d04e.png"
+      },
+  {
+        "name": "cDAO",
+        "address": "0x42077e348702f13ea80ce6a6a38b8b60fbb37b5d",
+        "symbol": "cDAO",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0x42077e348702f13ea80ce6a6a38b8b60fbb37b5d.png"
+      },
+  {
+        "name": "Liquid staked CORE",
+        "address": "0xb3a8f0f0da9ffc65318aa39e55079796093029ad",
+        "symbol": "stCORE",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0xb3a8f0f0da9ffc65318aa39e55079796093029ad.png"
+      },
+  {
+        "name": "Free Bridged SolvBTC.b",
+        "address": "0x5b1fb849f1f76217246b8aaac053b5c7b15b7dc3",
+        "symbol": "SolvBTC.b",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0x5b1fb849f1f76217246b8aaac053b5c7b15b7dc3.png"
+      },
+  {
+        "name": "SolvBTC Core",
+        "address": "0x9410e8052bc661041e5cb27fdf7d9e9e842af2aa",
+        "symbol": "SolvBTC.CORE",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0x9410e8052bc661041e5cb27fdf7d9e9e842af2aa.png"
+      },
+  {
+        "name": "Free Bridged SolvBTC",
+        "address": "0xe04d21d999faedf1e72ade6629e20a11a1ed14fa",
+        "symbol": "SolvBTC.m",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0xe04d21d999faedf1e72ade6629e20a11a1ed14fa.png"
+      },
+  {
+        "name": "COLEND",
+        "address": "0x30a540b05468a250fcc17da2d9d4aaa84b358ea7",
+        "symbol": "CLND",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0x30a540b05468a250fcc17da2d9d4aaa84b358ea7.png"
+      },
+  {
+        "name": "Corepound Token",
+        "address": "0x56663f56333717a32cd91ec41182d6d76d98864e",
+        "symbol": "CORP",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0x56663f56333717a32cd91ec41182d6d76d98864e.png"
+      },
+  {
+        "name": "COREDAOVIP",
+        "address": "0x3c18c0be00c516d5c08d94a118fb185b99afa601",
+        "symbol": "COREVIP",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0x3c18c0be00c516d5c08d94a118fb185b99afa601.png"
+      },
+  {
+        "name": "CORExNetwork Token",
+        "address": "0x907f3cb137a3eabea6248e1fa4a3db4d19c43cb4",
+        "symbol": "CRX",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0x907f3cb137a3eabea6248e1fa4a3db4d19c43cb4.png"
+      },
+  {
+        "name": "CoRetardio",
+        "address": "0x78e3389b8f1f1a977544ea25768dc8073b74bd41",
+        "symbol": "CTO",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0x78e3389b8f1f1a977544ea25768dc8073b74bd41.png"
+      },
+  {
+        "name": "Hunter",
+        "address": "0x962d45c91e2e4f29ddc96c626976ece600908ba6",
+        "symbol": "HUNT",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0x962d45c91e2e4f29ddc96c626976ece600908ba6.png"
+      },
+  {
+        "name": "Just Use Core",
+        "address": "0xa5c4cd9ad4beda2ef1befece1ee16511ebcc41ad",
+        "symbol": "JUC",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0xa5c4cd9ad4beda2ef1befece1ee16511ebcc41ad.png"
+      },
+  {
+        "name": "LfgSwap Finance",
+        "address": "0xf7a0b80681ec935d6dd9f3af9826e68b99897d6d",
+        "symbol": "LFG",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0xf7a0b80681ec935d6dd9f3af9826e68b99897d6d.png"
+      },
+  {
+        "name": "NEV",
+        "address": "0xef30686b12e24c4ea04fd47487555793872105cb",
+        "symbol": "NEV",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0xef30686b12e24c4ea04fd47487555793872105cb.png"
+      },
+  {
+        "name": "OpenEX Network",
+        "address": "0xfd843e2eb0e5f7e652fb864477d57510a469b332",
+        "symbol": "OEX",
+        "decimals": 18,
+        "chainId": 1116,
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0xfd843e2eb0e5f7e652fb864477d57510a469b332.png"
+      }
+    ]
+  }
