@@ -32,7 +32,7 @@
         "symbol": "ICE",
         "decimals": 18,
         "chainId": 1116,
-        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0xc0E49f8C615d3d4c245970F6Dc528E4A47d69a44.png"
+        "logoURI": "https://raw.githubusercontent.com/CoreCustodian/ccswap-assets/refs/heads/main/blockchains/core/assets/0xc0e49f8c615d3d4c245970f6dc528e4a47d69a44.png"
       },
    {
         "name": "Pepe",
